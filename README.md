@@ -1,8 +1,8 @@
 Machine Learning Files & Projects
 Owner of this repository: Swati Sharma
 
-[Optional Assignment] Python Practice Questions\n
-[Optional Assignment] Pandas (for basic understanding) Practice Questions\n
+[Optional Assignment] Python Practice Questions
+[Optional Assignment] Pandas (for basic understanding) Practice Questions
 Data Visualization with Haberman Dataset
 Apply t SNE on Donors Choose dataset
 Apply k NN on Donors Choose dataset
